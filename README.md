@@ -7,7 +7,7 @@ About
 - 👋Hai, saya @yogaprasetya22
 - 👀Saya tertarik dengan fullstack development
 - 🌱Saat ini saya sedang belajar dengan next.js
-- 💞️Saya mencari untuk berkolaborasi pada fontend
+- 💞️Saya mencari untuk berkolaborasi pada frontend
 - 📫Bagaimana cara menghubungi saya
 
 
