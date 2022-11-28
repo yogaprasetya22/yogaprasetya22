@@ -1,11 +1,16 @@
 
-<h1 align="center">
-  <br>
-  <a href="https://github.com/yogaprasetya22"><img src="https://avatars.githubusercontent.com/u/80277262?v=4" alt="Markdownify" width="350"></a>
-  <br>
-  yogaprasetya22
-  <br><br>
-</h1>
+## About
+---
+
+- 👋Hai, saya @yogaprasetya22
+- 👀Saya tertarik dengan fullstack development
+- 🌱Saat ini saya sedang belajar dengan next.js
+- 💞️Saya mencari untuk berkolaborasi pada fontend
+- 📫Bagaimana cara menghubungi saya
+
+
+> GitHub [@yogaprasetya22](https://github.com/yogaprasetya22) &nbsp;&middot;&nbsp;
+> Instagram [@yoga.prasetya22](https://instagram/yoga.prasetya22)
 
 <p align="center" width="500">Halo, nama saya Mochammad Yoga Prasetya, tapi teman-teman memanggil saya Yoga. Saya berasal dari Universitas Pembangunan Jaya dengan prodi Sistem Informasi. Saya senang mempelajari sesuatu yang baru dan mendapatkan masukan untuk menjadikan diri saya lebih baik dan berkembang.
  <a href="https://m-yogaprasetya.vercel.app" target="_blank">Portfolio</a>.</p>
@@ -29,19 +34,6 @@
 <a href="https://www.patreon.com/amitmerchant">
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
-
-## About
----
-
-- 👋Hai, saya @yogaprasetya22
-- 👀Saya tertarik dengan fullstack development
-- 🌱Saat ini saya sedang belajar dengan next.js
-- 💞️Saya mencari untuk berkolaborasi pada fontend
-- 📫Bagaimana cara menghubungi saya
-
-
-> GitHub [@yogaprasetya22](https://github.com/yogaprasetya22) &nbsp;&middot;&nbsp;
-> Instagram [@yoga.prasetya22](https://instagram/yoga.prasetya22)
 
 
 <!---
