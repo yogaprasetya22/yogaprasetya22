@@ -3,6 +3,9 @@
 About
 </h1>
 
+<p align="center" width="500">Halo, nama saya Mochammad Yoga Prasetya, tapi teman-teman memanggil saya Yoga. Saya berasal dari Universitas Pembangunan Jaya dengan prodi Sistem Informasi. Saya senang mempelajari sesuatu yang baru dan mendapatkan masukan untuk menjadikan diri saya lebih baik dan berkembang.
+ <a href="https://m-yogaprasetya.vercel.app" target="_blank">Portfolio</a>.</p>
+
 ---
 - 👋Hai, saya @yogaprasetya22
 - 👀Saya tertarik dengan fullstack development
@@ -14,18 +17,20 @@ About
 > GitHub [@yogaprasetya22](https://github.com/yogaprasetya22) &nbsp;&middot;&nbsp;
 > Instagram [@yoga.prasetya22](https://instagram/yoga.prasetya22)
 ---
-<p align="center" width="500">Halo, nama saya Mochammad Yoga Prasetya, tapi teman-teman memanggil saya Yoga. Saya berasal dari Universitas Pembangunan Jaya dengan prodi Sistem Informasi. Saya senang mempelajari sesuatu yang baru dan mendapatkan masukan untuk menjadikan diri saya lebih baik dan berkembang.
- <a href="https://m-yogaprasetya.vercel.app" target="_blank">Portfolio</a>.</p>
 
+
+
+
+<h1 align="center">
+ <img src="https://github.com/yogaprasetya22/yogaprasetya22/blob/main/ezgif.com-gif-maker%20(10).gif" alt="YogaPrasetya" width="450"/>
 <p align="center">
   <a href="https://saweria.co/yogaprasetya22">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
-
-<h1 align="center">
- <img src="https://github.com/yogaprasetya22/yogaprasetya22/blob/main/ezgif.com-gif-maker%20(10).gif" alt="YogaPrasetya" width="450"/>
 </h1>
+
+
   
 ## Support
 
